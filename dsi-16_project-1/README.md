@@ -9,19 +9,19 @@ Given the trends in state average participation rates and subject/total scores f
 ## Executive Summary
 
 ### Contents:
-- [2017 Data Import & Cleaning](#Data-Import-and-Cleaning)
-- [2018 Data Import and Cleaning](#2018-Data-Import-and-Cleaning)
-- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-- [Data Visualization](#Visualize-the-data)
-- [Descriptive and Inferential Statistics](#Descriptive-and-Inferential-Statistics)
-- [Outside Research](#Outside-Research)
-- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
+- 2017 Data Import and Cleaning
+- 2018 Data Import and Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Descriptive and Inferential Statistics
+- Outside Research
+- Conclusions and Recommendations
 
 ### Data Sources:
 - [2017 SAT Scores by State](https://blog.collegevine.com/here-are-the-average-sat-scores-by-state/)
 - [2017 ACT Scores by State](https://www.act.org/content/dam/act/unsecured/documents/cccr2017/ACT_2017-Average_Scores_by_State.pdf)
-- [2018 SAT Scores by State](https://git.generalassemb.ly/dsi-sg-16/classes/blob/master/Project1234/project_1/data/sat_2018.csv)
-- [2018 ACT Scores by State](https://git.generalassemb.ly/dsi-sg-16/classes/blob/master/Project1234/project_1/data/act_2018_updated.csv)
+- [2018 SAT Scores by State](https://git.generalassemb.ly/dsi-sg-16/classes/blob/master/Project1234/project_1/data/sat_2018.csv) (Provided by General Assembly)
+- [2018 ACT Scores by State](https://git.generalassemb.ly/dsi-sg-16/classes/blob/master/Project1234/project_1/data/act_2018_updated.csv) (Provided by General Assembly)
 
 ## Data Dictionary
 
