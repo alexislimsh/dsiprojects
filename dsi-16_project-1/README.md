@@ -68,6 +68,7 @@ Another potential state to work with would be Utah, which also has a low SAT par
 
 *Additional Data*
 
-Additional data that would have been useful for this analysis would be data from preceding and subsequent years such that we could examine the trends in the data over time.
-
-More granular data at the county or school-level would also have allowed us more data points to examine the trends in test scores and participation rates.
+Additional data that would have been useful for this analysis are the following:
+- Categorical variable on state policies toward standardized testing (e.g. Mandates testing: Yes/No; which state-administered test if any)
+- Data from preceding and subsequent years such that we could examine a trend in the data over time.
+- More granular data at the county or school-level that would have allowed us more data points to examine the trends in test scores and participation rates.
