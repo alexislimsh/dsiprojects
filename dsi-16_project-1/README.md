@@ -4,7 +4,7 @@
 
 ## Problem Statement
 
-Given the trends in state average participation rates and subject/total scores for the SAT and ACT from 2017 to 2018, how can we work to increase the participation rates and what are the criteria for the states we should focus on?
+What relationships can we identify in state average participation rates and average subject/total scores for the SAT and ACT in 2018? How can we work to increase participation rates in selected states and what are the criteria for the states we should focus on?
 
 ## Executive Summary
 
@@ -13,6 +13,7 @@ Given the trends in state average participation rates and subject/total scores f
 - 2018 Data Import and Cleaning
 - Exploratory Data Analysis
 - Data Visualization
+- Data Dictionary
 - Descriptive and Inferential Statistics
 - Outside Research
 - Conclusions and Recommendations
