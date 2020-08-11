@@ -60,11 +60,13 @@ What relationships can we identify in state average participation rates and aver
 
 *Key Takeaways & Recommendations*
 
-From the data, the states with highest growth in SAT participation rates had extremely high participation rates in the ACT in 2017. To ensure the most success, we should look at states with existing high participation in the ACT and convince them to switch to the SAT as their state accountability test. We should also consider the existing SAT participation rate as the two states Illinois and Colorado had SAT participation rates of around 10% in 2017, indicating that the test already had some traction.
+From the data, the states with highest growth in SAT participation rates had extremely high participation rates in the ACT in 2017. The states with the most potential for growth in participation rates are states who already mandate the ACT test, and hence the College Board should work on lobbying these states to switch to the SAT as their state accountability test. We should also consider the existing SAT participation rate as the two states Illinois and Colorado had SAT participation rates of around 10% in 2017, indicating that the SAT already had some traction in those states.
 
-A good example of this would be Montana, which has a SAT participation rate of 10% in 2018 and has a 100% participation rate in the ACT. It is [one of the states that administers the ACT state-wide](https://www.testive.com/state-sat-act/). The College Board should consider working with the state education board of Montana and lobby them to switch to the SAT as their state accountability exam.
+A good example of this would be Ohio, which has a SAT participation rate of 16% in 2018 and has a 100% participation rate in the ACT. It is [one of the states that administers the ACT state-wide](https://www.testive.com/state-sat-act/) and is also . The population size is also [relatively large at 11.6M and it is the 7th most populous state in the United States](https://www2.census.gov/programs-surveys/popest/tables/2010-2019/state/totals/nst-est2019-01.xlsx?#).
+The College Board should consider working with the state education board of Ohio and lobby them to switch to the SAT as their state accountability exam.
 
-Another potential state to work with would be Utah, which also has a low SAT participation rate of 4% in 2018 and 100% ACT participation rate. Despite the low participation rate, Utah's mean SAT test scores are relatively low and saw a large decrease from 2017 to 2018. It would be a good opportunity to reach out to the state education board to discuss how College Board could work together to help Utah's students be more prepared for the SAT test, given the national significance of SAT scores.
+Depending on the state's contract with ACT, it may take a few years for lobbying efforts to see fruition, and in the short-term, the College Board can also consider approaching states that do not have a contract with either SAT or ACT, as they would be able to implement it quicker. One good candidate would be Florida, the third most populous state in the United States with a population of 21.4M. It already has a relatively high participation rate in the SAT of 56%, indicating that there would be enough traction in the state for the test.
+
 
 *Additional Data*
 
