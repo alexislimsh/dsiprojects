@@ -1,0 +1,82 @@
+variable,type
+Id,Identifier
+PID,Identifier
+MS SubClass,Nominal
+MS Zoning,Nominal
+Lot Frontage,Continuous
+Lot Area,Continuous
+Street,Nominal
+Alley,Nominal
+Lot Shape,Ordinal
+Land Contour,Nominal
+Utilities,Ordinal
+Lot Config,Nominal
+Land Slope,Ordinal
+Neighborhood,Nominal
+Condition 1,Nominal
+Condition 2,Nominal
+Bldg Type,Nominal
+House Style,Nominal
+Overall Qual,Ordinal
+Overall Cond,Ordinal
+Year Built,Discrete
+Year Remod/Add,Discrete
+Roof Style,Nominal
+Roof Matl,Nominal
+Exterior 1st,Nominal
+Exterior 2nd,Nominal
+Mas Vnr Type,Nominal
+Mas Vnr Area,Continuous
+Exter Qual,Ordinal
+Exter Cond,Ordinal
+Foundation,Nominal
+Bsmt Qual,Ordinal
+Bsmt Cond,Ordinal
+Bsmt Exposure,Ordinal
+BsmtFin Type 1,Ordinal
+BsmtFin SF 1,Continuous
+BsmtFin Type 2,Ordinal
+BsmtFin SF 2,Continuous
+Bsmt Unf SF,Continuous
+Total Bsmt SF,Continuous
+Heating,Nominal
+Heating QC,Ordinal
+Central Air,Nominal
+Electrical,Ordinal
+1st Flr SF,Continuous
+2nd Flr SF,Continuous
+Low Qual Fin SF,Continuous
+Gr Liv Area,Continuous
+Bsmt Full Bath,Discrete
+Bsmt Half Bath,Discrete
+Full Bath,Discrete
+Half Bath,Discrete
+Bedroom AbvGr,Discrete
+Kitchen AbvGr,Discrete
+Kitchen Qual,Ordinal
+TotRms AbvGrd,Discrete
+Functional,Ordinal
+Fireplaces,Discrete
+Fireplace Qu,Ordinal
+Garage Type,Nominal
+Garage Yr Blt,Discrete
+Garage Finish,Ordinal
+Garage Cars,Discrete
+Garage Area,Continuous
+Garage Qual,Ordinal
+Garage Cond,Ordinal
+Paved Drive,Ordinal
+Wood Deck SF,Continuous
+Open Porch SF,Continuous
+Enclosed Porch,Continuous
+3Ssn Porch,Continuous
+Screen Porch,Continuous
+Pool Area,Continuous
+Pool QC,Ordinal
+Fence,Ordinal
+Misc Feature,Nominal
+Misc Val,Continuous
+Mo Sold,Discrete
+Yr Sold,Discrete
+Sale Type,Nominal
+SalePrice,Continuous
