@@ -69,13 +69,15 @@ We have successfully built a model with a relatively good RMSE based on the trai
 
 *Recommendations*
 
-Although the model generated was relatively successful, we should also note the following:
+### Recommendations
 
-- The model is likely to have significant predictive power only within Iowa, Ames given that the city often has a large impact on price and may cause the features to interact in a different way. Hence, the use of the model is limited to one area and perhaps neighboring areas.
+If we had additional time and resources, we may want to consider the following to improve on and continually iterate on our model:
 
-- The final model leverages quite a few interaction variables from a dataset that is already extremely comprehensive as it was collected by the Ames Assessor’s Office. It is likely that users looking to predict sale price may not have details on all of the variables in the training dataset, while variables such as overall_qual and overall_cond are subjective. It may be fruitful to explore a simpler model that leverages on more accessible variables (e.g. lot_area, total_sf, basement type) which may give us a higher error, but can be generalised to more use cases.
+- The frequency distribution of the log of sale prices follows a normal distribution. By building our linear regression model with the log of sale prices, we can better fit and predict the sale prices of houses in the higher price range.
 
-- While we are able to process null values in the dataset by leveraging on other variables, an ideal scenario would be to reduce the null values at the collection stage. As many of the null values turned out to be Not Applicable or they were supposed to be zero values, there can be more standardisation in the data collection process.
+- For features with many different categories, we can combine and regroup them so that each category becomes more significant. For eg: Neighborhood has 28 categories, we can regroup them into 5 categories based on their mean sale prices.
+
+- We can also look into other external factors affecting housing prices like economic factors and demographic data of the community.
 
 While we see that the model built has limitations, it is also true that the process of putting together the model is informative and a similar process can be conducted for other datasets in other cities or with different variables collected. Our process is as follows:
 
