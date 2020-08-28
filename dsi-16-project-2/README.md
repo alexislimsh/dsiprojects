@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Model Prediction of Sale Price
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 2: Model Prediction of Sale Price
 
 ### By Alexis Lim, DSI-16
 
@@ -10,9 +10,9 @@ In this project, we process the Ames train and test datasets obtained via the [K
 
 ## Problem Statement
 
-What features of a house contribute most significantly to its eventual sale price, and with knowledge of these features, how can we predict future sale price?
+What features of a house contribute most significantly to its eventual sale price, and with knowledge of these features, how can we predict future sale price? Can the model that we build be generalised to other cities, states and countries?
 
-We approach this question from the POV of a consultancy in Ames, Iowa, who is interested in an algorithm for housing sale prices that can take in the features in the dataset and return a predicted sale price. This model can then be marketed to both governing bodies and housing agents who would be interested in such a tool.
+We approach the problem statement from the POV of a team of housing agents in Ames, Iowa, as it’s likely that agents will have access to this level of detail about a property. Having a model will help agents to consistently valuate properties and negotiate better between buyers and sellers. If successful, this model could also then be marketed to both governing bodies and housing agents who would be interested in such a tool.
 
 
 ### Contents:
