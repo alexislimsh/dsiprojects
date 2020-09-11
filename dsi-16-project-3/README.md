@@ -63,20 +63,22 @@ How can we qualify what exactly makes a pro tip unethical? By building a classif
 
 Based on our investigations and model, while we managed to create a model that successfully predicts around 80% of all posts. Some things we can conclude are:
 
-- **Unethical == materialism?:** There seems to be a greater focus on purchases and 'gaming' the system, whether it is via USPS or item returns, in our ULPT posts, suggesting that people see this behaviour as unethical (but still beneficial to yourself.) Aside from this theme, we can't see any strong indications for the term.
+- **Unethical == materialism?:** There seems to be a greater focus on purchases and 'gaming' the system, in our ULPT posts, suggesting that people see this behaviour as unethical (but still beneficial to yourself.) Aside from this theme, we can't see any strong indications for the term.
 
 - **Defining unethical:** While there are some themes that stand out for both subreddits, we can't explicitly conclude what 'unethical' or anti-social behaviour is. However, this may come down to the fact that since these posts are written from a 1st person POV and focused on actions, we may not see language that defines negative behaviour. We may be better off examining a different subreddit e.g. AmITheAsshole.
 
-- **What are 'tips'?** We can definitely conclude that the tips submitted to both are quite similar and overlap in language and themes. Many of the tips submitted have to do with free stuff, work and saving time, indicating that these are the tips that seem to matter most to people.
+- **What are 'tips'?** We can definitely conclude that the tips submitted to both are quite similar and overlap in language and themes. Many of the tips submitted have to do with wanting to know things, purchases, work, and time.
 
 *Limitations*
-As with every dataset, our data has limitations for the project and our conclusions:
+As with every dataset and project, there are some limitations we need to consider:
 
 - **Population Bias**: Reddit tends to be more U.S. centric, so these themes and language may only be applicable to the U.S.. Additionally, we'll need to remember that U.S. Reddit users are a subset of the U.S. that is also not representative of the country's preferences and demographic.
 
 - **Risk of Unreliable Data**: Our LPT posts are not explicitly 'not unethical', so we may have unethical posts in the LPT class anyway, or alternatively relatively ethical mods in the ULPT class. While the LPT subreddit is moderated to remove illegal and unethical tips, since the data is user-generated and defined, there is always a risk.
 
 - **Time Limitations:** With more time, we could continue to keep testing with hyperparameter tuning and adding new stopwords to improve our classification as it could likely be improved with further testing. However, this may not give us more concrete conclusions as well.
+
+- **Model Assumptions:** Our final model selected was a Naive Bayes model where the assumption is that our features are independent of one another, which cannot technically be true for our text features.
 
 ### Recommendations
 
