@@ -1,4 +1,4 @@
-Model Name,GS Best Score,Train Score,Test Score,ROC-AUC Score,Specificity,Sensitivity
+Model Name,GS Best Score,Train Score,Test Score,ROC-AUC Score,Sensitivity,Specificity
 cvec_nb,0.774,0.9,0.789,0.849,0.808,0.77
 tvec_nb,0.779,0.906,0.789,0.864,0.811,0.767
 cvec_lr,0.758,0.987,0.784,0.867,0.799,0.77
