@@ -11,8 +11,8 @@ The focus of the project was to build a sales prediction model for Olist sellers
 The project is split up into two notebooks as follows:
 
 **Project Notebooks**
-- Notebook 1: Cleaning and EDA
-- Notebook 2: Sales Estimate Prediction & Topic Modeling
+- [Notebook 1: Cleaning and EDA](https://github.com/alexislimsh/dsiprojects/blob/master/capstone/code/DSI-16_Capstone_Alexis-Lim_Notebook-1-Cleaning-%26-EDA.ipynb)
+- [Notebook 2: Sales Estimate Prediction & Topic Modeling](https://github.com/alexislimsh/dsiprojects/blob/master/capstone/code/DSI-16_Capstone_Alexis-Lim_Notebook-2-Modeling.ipynb)
 
 # Background
 
