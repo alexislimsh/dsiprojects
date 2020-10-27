@@ -2,7 +2,7 @@
 
 ### Alexis Lim, DSI-16
 
-This workspace contains project files and further details for my DSI-16 course projects.
+This workspace contains project files and details for my DSI-16 course projects.
 
 ## Contents
 - [Project 1: SAT and ACT Analysis](https://github.com/alexislimsh/dsiprojects/tree/master/dsi-16_project-1)
