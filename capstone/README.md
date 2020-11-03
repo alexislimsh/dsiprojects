@@ -31,6 +31,8 @@ We have been given access to a number of datasets that include the following:
 - Reviews: Reviews submitted by order id
 - Sellers: Unique seller ids and seller details
 
+![dataset](readme-images/datasets-summary.png)
+
 For this assignment, we want to focus on how we can use the data to increase the number of sellers and provide recommendations to them. Having a wide variety of sellers is incredibly important to us at Olist, and we are always looking for new ways to get new leads and onboard sellers onto our platform.
 
 # Problem Statement
@@ -59,6 +61,8 @@ The final data leveraged by the sales estimator model included:
 |max_price|float|Maximum product price|
 
 # Conclusion and Insights
+
+![dataset](readme-images/prediction.png)
 
 We were able to build a predictive model for predicting seller performance with around R$200 of root mean squared error and an adjusted R2 score of 0.93. However, as the data is not completely comprehensive, the model will require additional training on more data to be sufficiently robust and to evaluate its reproducibility.
 
