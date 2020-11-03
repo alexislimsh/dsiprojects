@@ -6,7 +6,7 @@
 
 This project folder contains my capstone project for the General Assembly DSI-16 course. It leverages an e-commerce dataset provided by the Brazilian company Olist, available on [Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce).
 
-The focus of the project was to build a sales prediction model for Olist sellers. We also perform NLP on the reviews in Portuguese to determine dominant topics in reviews.
+The focus of the project was to build a sales prediction model for Olist sellers. The final prediction model leveraged a Random Forest algorithm and has been [deployed on Heroku via Streamlit](https://ecommerce-seller-prediction.herokuapp.com/). We also perform NLP on the reviews in Portuguese to determine dominant topics in reviews.
 
 The project is split up into two notebooks as follows:
 
